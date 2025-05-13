@@ -1,0 +1,7 @@
+/* App.css */
+.bg-dev {
+  background-image: url("../public/DevDiaryX.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
